@@ -24,7 +24,6 @@ Engineered and prototyped using AI-assisted SecOps workflows in Google AI Studio
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS (High-contrast dark mode tailored for SecOps environments).
 - **Backend:** Node.js, Express.
 - **AI / LLM Engine:** Google @google/genai SDK running Gemini Flash with structured JSON schema outputs to prevent hallucination and guarantee deterministic parsing.
-- **Live Prototype:** [View App on Google AI Studio](https://ai.studio/apps/7835e2fb-e2bf-42e6-a045-0e50550cb902)
 
 ---
 
