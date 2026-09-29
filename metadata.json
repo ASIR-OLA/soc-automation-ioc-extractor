@@ -1,0 +1,8 @@
+{
+  "name": "Indicators of Compromise Analyzer",
+  "description": "Analyze text blocks, emails, or system logs to extract and evaluate Indicators of Compromise (IoCs), including IP addresses, hashes, domains, and suspicious files, providing risk scores and mitigation playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
